@@ -9,9 +9,9 @@ int main(){
     cout << "hello\nworld";
     cout << endl;
     // prints hello world on the same line
-    cout << "hello world";    // passing as single argument
+    cout << "hello world";    
     cout << endl;
-    cout << "hello " << "world";  // passing as two arguments
-    // prints hello world on the same line
+    cout << "hello " << "world";  
+
 
 }
