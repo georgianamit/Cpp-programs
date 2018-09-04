@@ -12,6 +12,4 @@ int main(){
     cout << "hello world";    
     cout << endl;
     cout << "hello " << "world";  
-
-
 }
