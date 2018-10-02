@@ -8,6 +8,7 @@ int main(){
     cout << endl ;
     cout << "hello\nworld";
     cout << endl;
+    
     // prints hello world on the same line
     cout << "hello world";    
     cout << endl;
