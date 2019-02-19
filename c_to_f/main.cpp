@@ -14,6 +14,6 @@ int main()
     float fahrenheit = (celsius * 1.8) + 32;
 
     // printing fahrenheit
-    cout << "The temperature is " << fahrenheit << " degree fahrenheit.";
+    cout << "The temperature is " << fahrenheit << " degree fahrenheit." << endl;
     return 0;
 }
