@@ -31,4 +31,4 @@ int main()
 	cout << "The Simple Interest is "  << si;
 
     return 0;
-}//
+}
