@@ -23,7 +23,8 @@ int main(){
         cur = cur + pre;                     
         // changes the previous value to temp value
         pre = temp;
-    }                  
+    }
+    return 0;                  
  
 }
    
