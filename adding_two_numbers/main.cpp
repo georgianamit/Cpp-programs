@@ -3,8 +3,9 @@
 using namespace std;
  
 int main()
-{
-    int a, b, sum;
+{   
+    // int a, b, sum;
+    float a, b, sum;
 
     cout << "Enter first number: ";
     cin >> a;
