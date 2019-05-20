@@ -6,8 +6,7 @@ using namespace std;
 
 int reverseNumber(int num);
  
-int main()
-{
+int main(){
     int num, reverse;
  
     cout<<"Enter a number: ";
@@ -21,8 +20,7 @@ int main()
 }
  
 //Recursive function to find reverse of any number 
-int reverseNumber(int num)
-{
+int reverseNumber(int num){
     // Finding total digits in num
     int digits = (int) log10(num);
  
