@@ -9,9 +9,11 @@ int main (){
     cout << "Enter a number: ";
     cin >> num;
 
+    int order = num.size();
+
     for(int i=0;i<num.size();i++){
         d = (num[i] - '0');
-        sum += pow(d, 3);
+        sum += pow(d, order);
         temp = (temp * 10) + d;
     }
 
